@@ -3,6 +3,8 @@
 /Lists and Friends/Sort and Reverse/build/
 /Lists and Friends/Sort and Reverse/build/classes/java/main/
 
+.idea/**/*.iml
+
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
